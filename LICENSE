@@ -1,0 +1,22 @@
+========================================================================
+OPTIMIZED_MATH SUBSYSTEM - DUAL LICENSING TERMS
+========================================================================
+Copyright (c) 2026 Daniel J. DeLuca
+All rights reserved.
+
+This library subsystem is dual-licensed. Users may elect to utilize this 
+software under the terms of either of the following distinct licenses:
+
+Path 1: OPEN-SOURCE DEVELOPMENT (GNU Affero General Public License v3)
+This software is free for open-source development, hobbyist environments, 
+and academic research under the terms of the AGPLv3. Any derivative works, 
+applications, or library inclusions utilizing this core engine MUST be 
+made fully public and transparent under the same copyleft AGPLv3 terms.
+
+Path 2: COMMERCIAL DEPLOYMENT (Proprietary Commercial License)
+For commercial, closed-source corporate applications where source code 
+disclosure is unacceptable, the open-source requirements are completely 
+waived. A paid commercial seat license must be secured from the copyright 
+owner. For commercial licensing terms, fees, and procurement, contact:
+Contact: Daniel J. DeLuca <dandeluca@att.net>
+========================================================================
